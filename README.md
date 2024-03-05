@@ -1,5 +1,5 @@
-# Xampp_zh_hk
-traditional Chinese language pack for xampp
+# XAMPP_zh_HK
+Traditional Chinese language pack for XAMPP
 
 Replace the `xampp_control.mo` from `*\xampp\locale\en\LC_MESSAGES`
 
